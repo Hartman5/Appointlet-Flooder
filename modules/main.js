@@ -9,15 +9,10 @@ function getProxy() {
 }
 
 function getRandomTimezone() {
-    try {
-        const data = fs.readFileSync('./helpers/timezones.json', 'utf8');
-        const timezones = JSON.parse(data);
-        const randomIndex = Math.floor(Math.random() * timezones.length);
-        return timezones[randomIndex].name;
-    } catch (error) {
-        console.error('Error reading or parsing the file:', error);
-        return null;
-    }
+    const data = fs.readFileSync('./helpers/timezones.json', 'utf8');
+    const timezones = JSON.parse(data);
+    const randomIndex = Math.floor(Math.random() * timezones.length);
+    return timezones[randomIndex].name;
 }
 
 function getDomain() {
@@ -39,11 +34,13 @@ function getDomain() {
 }
 
 function randomChars(len) {
-    const charset = 'abcdefghijklmnopqrstuvwxyz0123456789';
     let str = '';
+    const charset = 'abcdefghijklmnopqrstuvwxyz0123456789';
+
     for (let i = 0; i < len; i++) {
         str += charset.charAt(Math.floor(Math.random() * charset.length));
     }
+
     return str;
 }
 
