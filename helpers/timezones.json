@@ -1,0 +1,1734 @@
+[
+    {
+        "name": "AFRICA_ABIDJAN",
+        "description": "Africa/Abidjan"
+    },
+    {
+        "name": "AFRICA_ACCRA",
+        "description": "Africa/Accra"
+    },
+    {
+        "name": "AFRICA_ADDIS_ABABA",
+        "description": "Africa/Addis_Ababa"
+    },
+    {
+        "name": "AFRICA_ALGIERS",
+        "description": "Africa/Algiers"
+    },
+    {
+        "name": "AFRICA_ASMARA",
+        "description": "Africa/Asmara"
+    },
+    {
+        "name": "AFRICA_BAMAKO",
+        "description": "Africa/Bamako"
+    },
+    {
+        "name": "AFRICA_BANGUI",
+        "description": "Africa/Bangui"
+    },
+    {
+        "name": "AFRICA_BANJUL",
+        "description": "Africa/Banjul"
+    },
+    {
+        "name": "AFRICA_BISSAU",
+        "description": "Africa/Bissau"
+    },
+    {
+        "name": "AFRICA_BLANTYRE",
+        "description": "Africa/Blantyre"
+    },
+    {
+        "name": "AFRICA_BRAZZAVILLE",
+        "description": "Africa/Brazzaville"
+    },
+    {
+        "name": "AFRICA_BUJUMBURA",
+        "description": "Africa/Bujumbura"
+    },
+    {
+        "name": "AFRICA_CAIRO",
+        "description": "Africa/Cairo"
+    },
+    {
+        "name": "AFRICA_CASABLANCA",
+        "description": "Africa/Casablanca"
+    },
+    {
+        "name": "AFRICA_CEUTA",
+        "description": "Africa/Ceuta"
+    },
+    {
+        "name": "AFRICA_CONAKRY",
+        "description": "Africa/Conakry"
+    },
+    {
+        "name": "AFRICA_DAKAR",
+        "description": "Africa/Dakar"
+    },
+    {
+        "name": "AFRICA_DAR_ES_SALAAM",
+        "description": "Africa/Dar_es_Salaam"
+    },
+    {
+        "name": "AFRICA_DJIBOUTI",
+        "description": "Africa/Djibouti"
+    },
+    {
+        "name": "AFRICA_DOUALA",
+        "description": "Africa/Douala"
+    },
+    {
+        "name": "AFRICA_EL_AAIUN",
+        "description": "Africa/El_Aaiun"
+    },
+    {
+        "name": "AFRICA_FREETOWN",
+        "description": "Africa/Freetown"
+    },
+    {
+        "name": "AFRICA_GABORONE",
+        "description": "Africa/Gaborone"
+    },
+    {
+        "name": "AFRICA_HARARE",
+        "description": "Africa/Harare"
+    },
+    {
+        "name": "AFRICA_JOHANNESBURG",
+        "description": "Africa/Johannesburg"
+    },
+    {
+        "name": "AFRICA_JUBA",
+        "description": "Africa/Juba"
+    },
+    {
+        "name": "AFRICA_KAMPALA",
+        "description": "Africa/Kampala"
+    },
+    {
+        "name": "AFRICA_KHARTOUM",
+        "description": "Africa/Khartoum"
+    },
+    {
+        "name": "AFRICA_KIGALI",
+        "description": "Africa/Kigali"
+    },
+    {
+        "name": "AFRICA_KINSHASA",
+        "description": "Africa/Kinshasa"
+    },
+    {
+        "name": "AFRICA_LAGOS",
+        "description": "Africa/Lagos"
+    },
+    {
+        "name": "AFRICA_LIBREVILLE",
+        "description": "Africa/Libreville"
+    },
+    {
+        "name": "AFRICA_LOME",
+        "description": "Africa/Lome"
+    },
+    {
+        "name": "AFRICA_LUANDA",
+        "description": "Africa/Luanda"
+    },
+    {
+        "name": "AFRICA_LUBUMBASHI",
+        "description": "Africa/Lubumbashi"
+    },
+    {
+        "name": "AFRICA_LUSAKA",
+        "description": "Africa/Lusaka"
+    },
+    {
+        "name": "AFRICA_MALABO",
+        "description": "Africa/Malabo"
+    },
+    {
+        "name": "AFRICA_MAPUTO",
+        "description": "Africa/Maputo"
+    },
+    {
+        "name": "AFRICA_MASERU",
+        "description": "Africa/Maseru"
+    },
+    {
+        "name": "AFRICA_MBABANE",
+        "description": "Africa/Mbabane"
+    },
+    {
+        "name": "AFRICA_MOGADISHU",
+        "description": "Africa/Mogadishu"
+    },
+    {
+        "name": "AFRICA_MONROVIA",
+        "description": "Africa/Monrovia"
+    },
+    {
+        "name": "AFRICA_NAIROBI",
+        "description": "Africa/Nairobi"
+    },
+    {
+        "name": "AFRICA_NDJAMENA",
+        "description": "Africa/Ndjamena"
+    },
+    {
+        "name": "AFRICA_NIAMEY",
+        "description": "Africa/Niamey"
+    },
+    {
+        "name": "AFRICA_NOUAKCHOTT",
+        "description": "Africa/Nouakchott"
+    },
+    {
+        "name": "AFRICA_OUAGADOUGOU",
+        "description": "Africa/Ouagadougou"
+    },
+    {
+        "name": "AFRICA_PORTO_NOVO",
+        "description": "Africa/Porto-Novo"
+    },
+    {
+        "name": "AFRICA_SAO_TOME",
+        "description": "Africa/Sao_Tome"
+    },
+    {
+        "name": "AFRICA_TRIPOLI",
+        "description": "Africa/Tripoli"
+    },
+    {
+        "name": "AFRICA_TUNIS",
+        "description": "Africa/Tunis"
+    },
+    {
+        "name": "AFRICA_WINDHOEK",
+        "description": "Africa/Windhoek"
+    },
+    {
+        "name": "AMERICA_ADAK",
+        "description": "America/Adak"
+    },
+    {
+        "name": "AMERICA_ANCHORAGE",
+        "description": "America/Anchorage"
+    },
+    {
+        "name": "AMERICA_ANGUILLA",
+        "description": "America/Anguilla"
+    },
+    {
+        "name": "AMERICA_ANTIGUA",
+        "description": "America/Antigua"
+    },
+    {
+        "name": "AMERICA_ARAGUAINA",
+        "description": "America/Araguaina"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_BUENOS_AIRES",
+        "description": "America/Argentina/Buenos_Aires"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_CATAMARCA",
+        "description": "America/Argentina/Catamarca"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_CORDOBA",
+        "description": "America/Argentina/Cordoba"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_JUJUY",
+        "description": "America/Argentina/Jujuy"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_LA_RIOJA",
+        "description": "America/Argentina/La_Rioja"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_MENDOZA",
+        "description": "America/Argentina/Mendoza"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_RIO_GALLEGOS",
+        "description": "America/Argentina/Rio_Gallegos"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_SALTA",
+        "description": "America/Argentina/Salta"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_SAN_JUAN",
+        "description": "America/Argentina/San_Juan"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_SAN_LUIS",
+        "description": "America/Argentina/San_Luis"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_TUCUMAN",
+        "description": "America/Argentina/Tucuman"
+    },
+    {
+        "name": "AMERICA_ARGENTINA_USHUAIA",
+        "description": "America/Argentina/Ushuaia"
+    },
+    {
+        "name": "AMERICA_ARUBA",
+        "description": "America/Aruba"
+    },
+    {
+        "name": "AMERICA_ASUNCION",
+        "description": "America/Asuncion"
+    },
+    {
+        "name": "AMERICA_ATIKOKAN",
+        "description": "America/Atikokan"
+    },
+    {
+        "name": "AMERICA_BAHIA",
+        "description": "America/Bahia"
+    },
+    {
+        "name": "AMERICA_BAHIA_BANDERAS",
+        "description": "America/Bahia_Banderas"
+    },
+    {
+        "name": "AMERICA_BARBADOS",
+        "description": "America/Barbados"
+    },
+    {
+        "name": "AMERICA_BELEM",
+        "description": "America/Belem"
+    },
+    {
+        "name": "AMERICA_BELIZE",
+        "description": "America/Belize"
+    },
+    {
+        "name": "AMERICA_BLANC_SABLON",
+        "description": "America/Blanc-Sablon"
+    },
+    {
+        "name": "AMERICA_BOA_VISTA",
+        "description": "America/Boa_Vista"
+    },
+    {
+        "name": "AMERICA_BOGOTA",
+        "description": "America/Bogota"
+    },
+    {
+        "name": "AMERICA_BOISE",
+        "description": "America/Boise"
+    },
+    {
+        "name": "AMERICA_CAMBRIDGE_BAY",
+        "description": "America/Cambridge_Bay"
+    },
+    {
+        "name": "AMERICA_CAMPO_GRANDE",
+        "description": "America/Campo_Grande"
+    },
+    {
+        "name": "AMERICA_CANCUN",
+        "description": "America/Cancun"
+    },
+    {
+        "name": "AMERICA_CARACAS",
+        "description": "America/Caracas"
+    },
+    {
+        "name": "AMERICA_CAYENNE",
+        "description": "America/Cayenne"
+    },
+    {
+        "name": "AMERICA_CAYMAN",
+        "description": "America/Cayman"
+    },
+    {
+        "name": "AMERICA_CHICAGO",
+        "description": "America/Chicago"
+    },
+    {
+        "name": "AMERICA_CHIHUAHUA",
+        "description": "America/Chihuahua"
+    },
+    {
+        "name": "AMERICA_CIUDAD_JUAREZ",
+        "description": "America/Ciudad_Juarez"
+    },
+    {
+        "name": "AMERICA_COSTA_RICA",
+        "description": "America/Costa_Rica"
+    },
+    {
+        "name": "AMERICA_CRESTON",
+        "description": "America/Creston"
+    },
+    {
+        "name": "AMERICA_CUIABA",
+        "description": "America/Cuiaba"
+    },
+    {
+        "name": "AMERICA_CURACAO",
+        "description": "America/Curacao"
+    },
+    {
+        "name": "AMERICA_DANMARKSHAVN",
+        "description": "America/Danmarkshavn"
+    },
+    {
+        "name": "AMERICA_DAWSON",
+        "description": "America/Dawson"
+    },
+    {
+        "name": "AMERICA_DAWSON_CREEK",
+        "description": "America/Dawson_Creek"
+    },
+    {
+        "name": "AMERICA_DENVER",
+        "description": "America/Denver"
+    },
+    {
+        "name": "AMERICA_DETROIT",
+        "description": "America/Detroit"
+    },
+    {
+        "name": "AMERICA_DOMINICA",
+        "description": "America/Dominica"
+    },
+    {
+        "name": "AMERICA_EDMONTON",
+        "description": "America/Edmonton"
+    },
+    {
+        "name": "AMERICA_EIRUNEPE",
+        "description": "America/Eirunepe"
+    },
+    {
+        "name": "AMERICA_EL_SALVADOR",
+        "description": "America/El_Salvador"
+    },
+    {
+        "name": "AMERICA_FORT_NELSON",
+        "description": "America/Fort_Nelson"
+    },
+    {
+        "name": "AMERICA_FORTALEZA",
+        "description": "America/Fortaleza"
+    },
+    {
+        "name": "AMERICA_GLACE_BAY",
+        "description": "America/Glace_Bay"
+    },
+    {
+        "name": "AMERICA_GOOSE_BAY",
+        "description": "America/Goose_Bay"
+    },
+    {
+        "name": "AMERICA_GRAND_TURK",
+        "description": "America/Grand_Turk"
+    },
+    {
+        "name": "AMERICA_GRENADA",
+        "description": "America/Grenada"
+    },
+    {
+        "name": "AMERICA_GUADELOUPE",
+        "description": "America/Guadeloupe"
+    },
+    {
+        "name": "AMERICA_GUATEMALA",
+        "description": "America/Guatemala"
+    },
+    {
+        "name": "AMERICA_GUAYAQUIL",
+        "description": "America/Guayaquil"
+    },
+    {
+        "name": "AMERICA_GUYANA",
+        "description": "America/Guyana"
+    },
+    {
+        "name": "AMERICA_HALIFAX",
+        "description": "America/Halifax"
+    },
+    {
+        "name": "AMERICA_HAVANA",
+        "description": "America/Havana"
+    },
+    {
+        "name": "AMERICA_HERMOSILLO",
+        "description": "America/Hermosillo"
+    },
+    {
+        "name": "AMERICA_INDIANA_INDIANAPOLIS",
+        "description": "America/Indiana/Indianapolis"
+    },
+    {
+        "name": "AMERICA_INDIANA_KNOX",
+        "description": "America/Indiana/Knox"
+    },
+    {
+        "name": "AMERICA_INDIANA_MARENGO",
+        "description": "America/Indiana/Marengo"
+    },
+    {
+        "name": "AMERICA_INDIANA_PETERSBURG",
+        "description": "America/Indiana/Petersburg"
+    },
+    {
+        "name": "AMERICA_INDIANA_TELL_CITY",
+        "description": "America/Indiana/Tell_City"
+    },
+    {
+        "name": "AMERICA_INDIANA_VEVAY",
+        "description": "America/Indiana/Vevay"
+    },
+    {
+        "name": "AMERICA_INDIANA_VINCENNES",
+        "description": "America/Indiana/Vincennes"
+    },
+    {
+        "name": "AMERICA_INDIANA_WINAMAC",
+        "description": "America/Indiana/Winamac"
+    },
+    {
+        "name": "AMERICA_INUVIK",
+        "description": "America/Inuvik"
+    },
+    {
+        "name": "AMERICA_IQALUIT",
+        "description": "America/Iqaluit"
+    },
+    {
+        "name": "AMERICA_JAMAICA",
+        "description": "America/Jamaica"
+    },
+    {
+        "name": "AMERICA_JUNEAU",
+        "description": "America/Juneau"
+    },
+    {
+        "name": "AMERICA_KENTUCKY_LOUISVILLE",
+        "description": "America/Kentucky/Louisville"
+    },
+    {
+        "name": "AMERICA_KENTUCKY_MONTICELLO",
+        "description": "America/Kentucky/Monticello"
+    },
+    {
+        "name": "AMERICA_KRALENDIJK",
+        "description": "America/Kralendijk"
+    },
+    {
+        "name": "AMERICA_LA_PAZ",
+        "description": "America/La_Paz"
+    },
+    {
+        "name": "AMERICA_LIMA",
+        "description": "America/Lima"
+    },
+    {
+        "name": "AMERICA_LOS_ANGELES",
+        "description": "America/Los_Angeles"
+    },
+    {
+        "name": "AMERICA_LOWER_PRINCES",
+        "description": "America/Lower_Princes"
+    },
+    {
+        "name": "AMERICA_MACEIO",
+        "description": "America/Maceio"
+    },
+    {
+        "name": "AMERICA_MANAGUA",
+        "description": "America/Managua"
+    },
+    {
+        "name": "AMERICA_MANAUS",
+        "description": "America/Manaus"
+    },
+    {
+        "name": "AMERICA_MARIGOT",
+        "description": "America/Marigot"
+    },
+    {
+        "name": "AMERICA_MARTINIQUE",
+        "description": "America/Martinique"
+    },
+    {
+        "name": "AMERICA_MATAMOROS",
+        "description": "America/Matamoros"
+    },
+    {
+        "name": "AMERICA_MAZATLAN",
+        "description": "America/Mazatlan"
+    },
+    {
+        "name": "AMERICA_MENOMINEE",
+        "description": "America/Menominee"
+    },
+    {
+        "name": "AMERICA_MERIDA",
+        "description": "America/Merida"
+    },
+    {
+        "name": "AMERICA_METLAKATLA",
+        "description": "America/Metlakatla"
+    },
+    {
+        "name": "AMERICA_MEXICO_CITY",
+        "description": "America/Mexico_City"
+    },
+    {
+        "name": "AMERICA_MIQUELON",
+        "description": "America/Miquelon"
+    },
+    {
+        "name": "AMERICA_MONCTON",
+        "description": "America/Moncton"
+    },
+    {
+        "name": "AMERICA_MONTERREY",
+        "description": "America/Monterrey"
+    },
+    {
+        "name": "AMERICA_MONTEVIDEO",
+        "description": "America/Montevideo"
+    },
+    {
+        "name": "AMERICA_MONTSERRAT",
+        "description": "America/Montserrat"
+    },
+    {
+        "name": "AMERICA_NASSAU",
+        "description": "America/Nassau"
+    },
+    {
+        "name": "AMERICA_NEW_YORK",
+        "description": "America/New_York"
+    },
+    {
+        "name": "AMERICA_NOME",
+        "description": "America/Nome"
+    },
+    {
+        "name": "AMERICA_NORONHA",
+        "description": "America/Noronha"
+    },
+    {
+        "name": "AMERICA_NORTH_DAKOTA_BEULAH",
+        "description": "America/North_Dakota/Beulah"
+    },
+    {
+        "name": "AMERICA_NORTH_DAKOTA_CENTER",
+        "description": "America/North_Dakota/Center"
+    },
+    {
+        "name": "AMERICA_NORTH_DAKOTA_NEW_SALEM",
+        "description": "America/North_Dakota/New_Salem"
+    },
+    {
+        "name": "AMERICA_NUUK",
+        "description": "America/Nuuk"
+    },
+    {
+        "name": "AMERICA_OJINAGA",
+        "description": "America/Ojinaga"
+    },
+    {
+        "name": "AMERICA_PANAMA",
+        "description": "America/Panama"
+    },
+    {
+        "name": "AMERICA_PARAMARIBO",
+        "description": "America/Paramaribo"
+    },
+    {
+        "name": "AMERICA_PHOENIX",
+        "description": "America/Phoenix"
+    },
+    {
+        "name": "AMERICA_PORT_AU_PRINCE",
+        "description": "America/Port-au-Prince"
+    },
+    {
+        "name": "AMERICA_PORT_OF_SPAIN",
+        "description": "America/Port_of_Spain"
+    },
+    {
+        "name": "AMERICA_PORTO_VELHO",
+        "description": "America/Porto_Velho"
+    },
+    {
+        "name": "AMERICA_PUERTO_RICO",
+        "description": "America/Puerto_Rico"
+    },
+    {
+        "name": "AMERICA_PUNTA_ARENAS",
+        "description": "America/Punta_Arenas"
+    },
+    {
+        "name": "AMERICA_RANKIN_INLET",
+        "description": "America/Rankin_Inlet"
+    },
+    {
+        "name": "AMERICA_RECIFE",
+        "description": "America/Recife"
+    },
+    {
+        "name": "AMERICA_REGINA",
+        "description": "America/Regina"
+    },
+    {
+        "name": "AMERICA_RESOLUTE",
+        "description": "America/Resolute"
+    },
+    {
+        "name": "AMERICA_RIO_BRANCO",
+        "description": "America/Rio_Branco"
+    },
+    {
+        "name": "AMERICA_SANTAREM",
+        "description": "America/Santarem"
+    },
+    {
+        "name": "AMERICA_SANTIAGO",
+        "description": "America/Santiago"
+    },
+    {
+        "name": "AMERICA_SANTO_DOMINGO",
+        "description": "America/Santo_Domingo"
+    },
+    {
+        "name": "AMERICA_SAO_PAULO",
+        "description": "America/Sao_Paulo"
+    },
+    {
+        "name": "AMERICA_SCORESBYSUND",
+        "description": "America/Scoresbysund"
+    },
+    {
+        "name": "AMERICA_SITKA",
+        "description": "America/Sitka"
+    },
+    {
+        "name": "AMERICA_ST_BARTHELEMY",
+        "description": "America/St_Barthelemy"
+    },
+    {
+        "name": "AMERICA_ST_JOHNS",
+        "description": "America/St_Johns"
+    },
+    {
+        "name": "AMERICA_ST_KITTS",
+        "description": "America/St_Kitts"
+    },
+    {
+        "name": "AMERICA_ST_LUCIA",
+        "description": "America/St_Lucia"
+    },
+    {
+        "name": "AMERICA_ST_THOMAS",
+        "description": "America/St_Thomas"
+    },
+    {
+        "name": "AMERICA_ST_VINCENT",
+        "description": "America/St_Vincent"
+    },
+    {
+        "name": "AMERICA_SWIFT_CURRENT",
+        "description": "America/Swift_Current"
+    },
+    {
+        "name": "AMERICA_TEGUCIGALPA",
+        "description": "America/Tegucigalpa"
+    },
+    {
+        "name": "AMERICA_THULE",
+        "description": "America/Thule"
+    },
+    {
+        "name": "AMERICA_TIJUANA",
+        "description": "America/Tijuana"
+    },
+    {
+        "name": "AMERICA_TORONTO",
+        "description": "America/Toronto"
+    },
+    {
+        "name": "AMERICA_TORTOLA",
+        "description": "America/Tortola"
+    },
+    {
+        "name": "AMERICA_VANCOUVER",
+        "description": "America/Vancouver"
+    },
+    {
+        "name": "AMERICA_WHITEHORSE",
+        "description": "America/Whitehorse"
+    },
+    {
+        "name": "AMERICA_WINNIPEG",
+        "description": "America/Winnipeg"
+    },
+    {
+        "name": "AMERICA_YAKUTAT",
+        "description": "America/Yakutat"
+    },
+    {
+        "name": "ANTARCTICA_CASEY",
+        "description": "Antarctica/Casey"
+    },
+    {
+        "name": "ANTARCTICA_DAVIS",
+        "description": "Antarctica/Davis"
+    },
+    {
+        "name": "ANTARCTICA_DUMONTDURVILLE",
+        "description": "Antarctica/DumontDUrville"
+    },
+    {
+        "name": "ANTARCTICA_MACQUARIE",
+        "description": "Antarctica/Macquarie"
+    },
+    {
+        "name": "ANTARCTICA_MAWSON",
+        "description": "Antarctica/Mawson"
+    },
+    {
+        "name": "ANTARCTICA_MCMURDO",
+        "description": "Antarctica/McMurdo"
+    },
+    {
+        "name": "ANTARCTICA_PALMER",
+        "description": "Antarctica/Palmer"
+    },
+    {
+        "name": "ANTARCTICA_ROTHERA",
+        "description": "Antarctica/Rothera"
+    },
+    {
+        "name": "ANTARCTICA_SYOWA",
+        "description": "Antarctica/Syowa"
+    },
+    {
+        "name": "ANTARCTICA_TROLL",
+        "description": "Antarctica/Troll"
+    },
+    {
+        "name": "ANTARCTICA_VOSTOK",
+        "description": "Antarctica/Vostok"
+    },
+    {
+        "name": "ARCTIC_LONGYEARBYEN",
+        "description": "Arctic/Longyearbyen"
+    },
+    {
+        "name": "ASIA_ADEN",
+        "description": "Asia/Aden"
+    },
+    {
+        "name": "ASIA_ALMATY",
+        "description": "Asia/Almaty"
+    },
+    {
+        "name": "ASIA_AMMAN",
+        "description": "Asia/Amman"
+    },
+    {
+        "name": "ASIA_ANADYR",
+        "description": "Asia/Anadyr"
+    },
+    {
+        "name": "ASIA_AQTAU",
+        "description": "Asia/Aqtau"
+    },
+    {
+        "name": "ASIA_AQTOBE",
+        "description": "Asia/Aqtobe"
+    },
+    {
+        "name": "ASIA_ASHGABAT",
+        "description": "Asia/Ashgabat"
+    },
+    {
+        "name": "ASIA_ATYRAU",
+        "description": "Asia/Atyrau"
+    },
+    {
+        "name": "ASIA_BAGHDAD",
+        "description": "Asia/Baghdad"
+    },
+    {
+        "name": "ASIA_BAHRAIN",
+        "description": "Asia/Bahrain"
+    },
+    {
+        "name": "ASIA_BAKU",
+        "description": "Asia/Baku"
+    },
+    {
+        "name": "ASIA_BANGKOK",
+        "description": "Asia/Bangkok"
+    },
+    {
+        "name": "ASIA_BARNAUL",
+        "description": "Asia/Barnaul"
+    },
+    {
+        "name": "ASIA_BEIRUT",
+        "description": "Asia/Beirut"
+    },
+    {
+        "name": "ASIA_BISHKEK",
+        "description": "Asia/Bishkek"
+    },
+    {
+        "name": "ASIA_BRUNEI",
+        "description": "Asia/Brunei"
+    },
+    {
+        "name": "ASIA_CHITA",
+        "description": "Asia/Chita"
+    },
+    {
+        "name": "ASIA_CHOIBALSAN",
+        "description": "Asia/Choibalsan"
+    },
+    {
+        "name": "ASIA_COLOMBO",
+        "description": "Asia/Colombo"
+    },
+    {
+        "name": "ASIA_DAMASCUS",
+        "description": "Asia/Damascus"
+    },
+    {
+        "name": "ASIA_DHAKA",
+        "description": "Asia/Dhaka"
+    },
+    {
+        "name": "ASIA_DILI",
+        "description": "Asia/Dili"
+    },
+    {
+        "name": "ASIA_DUBAI",
+        "description": "Asia/Dubai"
+    },
+    {
+        "name": "ASIA_DUSHANBE",
+        "description": "Asia/Dushanbe"
+    },
+    {
+        "name": "ASIA_FAMAGUSTA",
+        "description": "Asia/Famagusta"
+    },
+    {
+        "name": "ASIA_GAZA",
+        "description": "Asia/Gaza"
+    },
+    {
+        "name": "ASIA_HEBRON",
+        "description": "Asia/Hebron"
+    },
+    {
+        "name": "ASIA_HO_CHI_MINH",
+        "description": "Asia/Ho_Chi_Minh"
+    },
+    {
+        "name": "ASIA_HONG_KONG",
+        "description": "Asia/Hong_Kong"
+    },
+    {
+        "name": "ASIA_HOVD",
+        "description": "Asia/Hovd"
+    },
+    {
+        "name": "ASIA_IRKUTSK",
+        "description": "Asia/Irkutsk"
+    },
+    {
+        "name": "ASIA_JAKARTA",
+        "description": "Asia/Jakarta"
+    },
+    {
+        "name": "ASIA_JAYAPURA",
+        "description": "Asia/Jayapura"
+    },
+    {
+        "name": "ASIA_JERUSALEM",
+        "description": "Asia/Jerusalem"
+    },
+    {
+        "name": "ASIA_KABUL",
+        "description": "Asia/Kabul"
+    },
+    {
+        "name": "ASIA_KAMCHATKA",
+        "description": "Asia/Kamchatka"
+    },
+    {
+        "name": "ASIA_KARACHI",
+        "description": "Asia/Karachi"
+    },
+    {
+        "name": "ASIA_KATHMANDU",
+        "description": "Asia/Kathmandu"
+    },
+    {
+        "name": "ASIA_KHANDYGA",
+        "description": "Asia/Khandyga"
+    },
+    {
+        "name": "ASIA_KOLKATA",
+        "description": "Asia/Kolkata"
+    },
+    {
+        "name": "ASIA_KRASNOYARSK",
+        "description": "Asia/Krasnoyarsk"
+    },
+    {
+        "name": "ASIA_KUALA_LUMPUR",
+        "description": "Asia/Kuala_Lumpur"
+    },
+    {
+        "name": "ASIA_KUCHING",
+        "description": "Asia/Kuching"
+    },
+    {
+        "name": "ASIA_KUWAIT",
+        "description": "Asia/Kuwait"
+    },
+    {
+        "name": "ASIA_MACAU",
+        "description": "Asia/Macau"
+    },
+    {
+        "name": "ASIA_MAGADAN",
+        "description": "Asia/Magadan"
+    },
+    {
+        "name": "ASIA_MAKASSAR",
+        "description": "Asia/Makassar"
+    },
+    {
+        "name": "ASIA_MANILA",
+        "description": "Asia/Manila"
+    },
+    {
+        "name": "ASIA_MUSCAT",
+        "description": "Asia/Muscat"
+    },
+    {
+        "name": "ASIA_NICOSIA",
+        "description": "Asia/Nicosia"
+    },
+    {
+        "name": "ASIA_NOVOKUZNETSK",
+        "description": "Asia/Novokuznetsk"
+    },
+    {
+        "name": "ASIA_NOVOSIBIRSK",
+        "description": "Asia/Novosibirsk"
+    },
+    {
+        "name": "ASIA_OMSK",
+        "description": "Asia/Omsk"
+    },
+    {
+        "name": "ASIA_ORAL",
+        "description": "Asia/Oral"
+    },
+    {
+        "name": "ASIA_PHNOM_PENH",
+        "description": "Asia/Phnom_Penh"
+    },
+    {
+        "name": "ASIA_PONTIANAK",
+        "description": "Asia/Pontianak"
+    },
+    {
+        "name": "ASIA_PYONGYANG",
+        "description": "Asia/Pyongyang"
+    },
+    {
+        "name": "ASIA_QATAR",
+        "description": "Asia/Qatar"
+    },
+    {
+        "name": "ASIA_QOSTANAY",
+        "description": "Asia/Qostanay"
+    },
+    {
+        "name": "ASIA_QYZYLORDA",
+        "description": "Asia/Qyzylorda"
+    },
+    {
+        "name": "ASIA_RIYADH",
+        "description": "Asia/Riyadh"
+    },
+    {
+        "name": "ASIA_SAKHALIN",
+        "description": "Asia/Sakhalin"
+    },
+    {
+        "name": "ASIA_SAMARKAND",
+        "description": "Asia/Samarkand"
+    },
+    {
+        "name": "ASIA_SEOUL",
+        "description": "Asia/Seoul"
+    },
+    {
+        "name": "ASIA_SHANGHAI",
+        "description": "Asia/Shanghai"
+    },
+    {
+        "name": "ASIA_SINGAPORE",
+        "description": "Asia/Singapore"
+    },
+    {
+        "name": "ASIA_SREDNEKOLYMSK",
+        "description": "Asia/Srednekolymsk"
+    },
+    {
+        "name": "ASIA_TAIPEI",
+        "description": "Asia/Taipei"
+    },
+    {
+        "name": "ASIA_TASHKENT",
+        "description": "Asia/Tashkent"
+    },
+    {
+        "name": "ASIA_TBILISI",
+        "description": "Asia/Tbilisi"
+    },
+    {
+        "name": "ASIA_TEHRAN",
+        "description": "Asia/Tehran"
+    },
+    {
+        "name": "ASIA_THIMPHU",
+        "description": "Asia/Thimphu"
+    },
+    {
+        "name": "ASIA_TOKYO",
+        "description": "Asia/Tokyo"
+    },
+    {
+        "name": "ASIA_TOMSK",
+        "description": "Asia/Tomsk"
+    },
+    {
+        "name": "ASIA_ULAANBAATAR",
+        "description": "Asia/Ulaanbaatar"
+    },
+    {
+        "name": "ASIA_URUMQI",
+        "description": "Asia/Urumqi"
+    },
+    {
+        "name": "ASIA_UST_NERA",
+        "description": "Asia/Ust-Nera"
+    },
+    {
+        "name": "ASIA_VIENTIANE",
+        "description": "Asia/Vientiane"
+    },
+    {
+        "name": "ASIA_VLADIVOSTOK",
+        "description": "Asia/Vladivostok"
+    },
+    {
+        "name": "ASIA_YAKUTSK",
+        "description": "Asia/Yakutsk"
+    },
+    {
+        "name": "ASIA_YANGON",
+        "description": "Asia/Yangon"
+    },
+    {
+        "name": "ASIA_YEKATERINBURG",
+        "description": "Asia/Yekaterinburg"
+    },
+    {
+        "name": "ASIA_YEREVAN",
+        "description": "Asia/Yerevan"
+    },
+    {
+        "name": "ATLANTIC_AZORES",
+        "description": "Atlantic/Azores"
+    },
+    {
+        "name": "ATLANTIC_BERMUDA",
+        "description": "Atlantic/Bermuda"
+    },
+    {
+        "name": "ATLANTIC_CANARY",
+        "description": "Atlantic/Canary"
+    },
+    {
+        "name": "ATLANTIC_CAPE_VERDE",
+        "description": "Atlantic/Cape_Verde"
+    },
+    {
+        "name": "ATLANTIC_FAROE",
+        "description": "Atlantic/Faroe"
+    },
+    {
+        "name": "ATLANTIC_MADEIRA",
+        "description": "Atlantic/Madeira"
+    },
+    {
+        "name": "ATLANTIC_REYKJAVIK",
+        "description": "Atlantic/Reykjavik"
+    },
+    {
+        "name": "ATLANTIC_SOUTH_GEORGIA",
+        "description": "Atlantic/South_Georgia"
+    },
+    {
+        "name": "ATLANTIC_ST_HELENA",
+        "description": "Atlantic/St_Helena"
+    },
+    {
+        "name": "ATLANTIC_STANLEY",
+        "description": "Atlantic/Stanley"
+    },
+    {
+        "name": "AUSTRALIA_ADELAIDE",
+        "description": "Australia/Adelaide"
+    },
+    {
+        "name": "AUSTRALIA_BRISBANE",
+        "description": "Australia/Brisbane"
+    },
+    {
+        "name": "AUSTRALIA_BROKEN_HILL",
+        "description": "Australia/Broken_Hill"
+    },
+    {
+        "name": "AUSTRALIA_DARWIN",
+        "description": "Australia/Darwin"
+    },
+    {
+        "name": "AUSTRALIA_EUCLA",
+        "description": "Australia/Eucla"
+    },
+    {
+        "name": "AUSTRALIA_HOBART",
+        "description": "Australia/Hobart"
+    },
+    {
+        "name": "AUSTRALIA_LINDEMAN",
+        "description": "Australia/Lindeman"
+    },
+    {
+        "name": "AUSTRALIA_LORD_HOWE",
+        "description": "Australia/Lord_Howe"
+    },
+    {
+        "name": "AUSTRALIA_MELBOURNE",
+        "description": "Australia/Melbourne"
+    },
+    {
+        "name": "AUSTRALIA_PERTH",
+        "description": "Australia/Perth"
+    },
+    {
+        "name": "AUSTRALIA_SYDNEY",
+        "description": "Australia/Sydney"
+    },
+    {
+        "name": "CANADA_ATLANTIC",
+        "description": "Canada/Atlantic"
+    },
+    {
+        "name": "CANADA_CENTRAL",
+        "description": "Canada/Central"
+    },
+    {
+        "name": "CANADA_EASTERN",
+        "description": "Canada/Eastern"
+    },
+    {
+        "name": "CANADA_MOUNTAIN",
+        "description": "Canada/Mountain"
+    },
+    {
+        "name": "CANADA_NEWFOUNDLAND",
+        "description": "Canada/Newfoundland"
+    },
+    {
+        "name": "CANADA_PACIFIC",
+        "description": "Canada/Pacific"
+    },
+    {
+        "name": "EUROPE_AMSTERDAM",
+        "description": "Europe/Amsterdam"
+    },
+    {
+        "name": "EUROPE_ANDORRA",
+        "description": "Europe/Andorra"
+    },
+    {
+        "name": "EUROPE_ASTRAKHAN",
+        "description": "Europe/Astrakhan"
+    },
+    {
+        "name": "EUROPE_ATHENS",
+        "description": "Europe/Athens"
+    },
+    {
+        "name": "EUROPE_BELGRADE",
+        "description": "Europe/Belgrade"
+    },
+    {
+        "name": "EUROPE_BERLIN",
+        "description": "Europe/Berlin"
+    },
+    {
+        "name": "EUROPE_BRATISLAVA",
+        "description": "Europe/Bratislava"
+    },
+    {
+        "name": "EUROPE_BRUSSELS",
+        "description": "Europe/Brussels"
+    },
+    {
+        "name": "EUROPE_BUCHAREST",
+        "description": "Europe/Bucharest"
+    },
+    {
+        "name": "EUROPE_BUDAPEST",
+        "description": "Europe/Budapest"
+    },
+    {
+        "name": "EUROPE_BUSINGEN",
+        "description": "Europe/Busingen"
+    },
+    {
+        "name": "EUROPE_CHISINAU",
+        "description": "Europe/Chisinau"
+    },
+    {
+        "name": "EUROPE_COPENHAGEN",
+        "description": "Europe/Copenhagen"
+    },
+    {
+        "name": "EUROPE_DUBLIN",
+        "description": "Europe/Dublin"
+    },
+    {
+        "name": "EUROPE_GIBRALTAR",
+        "description": "Europe/Gibraltar"
+    },
+    {
+        "name": "EUROPE_GUERNSEY",
+        "description": "Europe/Guernsey"
+    },
+    {
+        "name": "EUROPE_HELSINKI",
+        "description": "Europe/Helsinki"
+    },
+    {
+        "name": "EUROPE_ISLE_OF_MAN",
+        "description": "Europe/Isle_of_Man"
+    },
+    {
+        "name": "EUROPE_ISTANBUL",
+        "description": "Europe/Istanbul"
+    },
+    {
+        "name": "EUROPE_JERSEY",
+        "description": "Europe/Jersey"
+    },
+    {
+        "name": "EUROPE_KALININGRAD",
+        "description": "Europe/Kaliningrad"
+    },
+    {
+        "name": "EUROPE_KIROV",
+        "description": "Europe/Kirov"
+    },
+    {
+        "name": "EUROPE_KYIV",
+        "description": "Europe/Kyiv"
+    },
+    {
+        "name": "EUROPE_LISBON",
+        "description": "Europe/Lisbon"
+    },
+    {
+        "name": "EUROPE_LJUBLJANA",
+        "description": "Europe/Ljubljana"
+    },
+    {
+        "name": "EUROPE_LONDON",
+        "description": "Europe/London"
+    },
+    {
+        "name": "EUROPE_LUXEMBOURG",
+        "description": "Europe/Luxembourg"
+    },
+    {
+        "name": "EUROPE_MADRID",
+        "description": "Europe/Madrid"
+    },
+    {
+        "name": "EUROPE_MALTA",
+        "description": "Europe/Malta"
+    },
+    {
+        "name": "EUROPE_MARIEHAMN",
+        "description": "Europe/Mariehamn"
+    },
+    {
+        "name": "EUROPE_MINSK",
+        "description": "Europe/Minsk"
+    },
+    {
+        "name": "EUROPE_MONACO",
+        "description": "Europe/Monaco"
+    },
+    {
+        "name": "EUROPE_MOSCOW",
+        "description": "Europe/Moscow"
+    },
+    {
+        "name": "EUROPE_OSLO",
+        "description": "Europe/Oslo"
+    },
+    {
+        "name": "EUROPE_PARIS",
+        "description": "Europe/Paris"
+    },
+    {
+        "name": "EUROPE_PODGORICA",
+        "description": "Europe/Podgorica"
+    },
+    {
+        "name": "EUROPE_PRAGUE",
+        "description": "Europe/Prague"
+    },
+    {
+        "name": "EUROPE_RIGA",
+        "description": "Europe/Riga"
+    },
+    {
+        "name": "EUROPE_ROME",
+        "description": "Europe/Rome"
+    },
+    {
+        "name": "EUROPE_SAMARA",
+        "description": "Europe/Samara"
+    },
+    {
+        "name": "EUROPE_SAN_MARINO",
+        "description": "Europe/San_Marino"
+    },
+    {
+        "name": "EUROPE_SARAJEVO",
+        "description": "Europe/Sarajevo"
+    },
+    {
+        "name": "EUROPE_SARATOV",
+        "description": "Europe/Saratov"
+    },
+    {
+        "name": "EUROPE_SIMFEROPOL",
+        "description": "Europe/Simferopol"
+    },
+    {
+        "name": "EUROPE_SKOPJE",
+        "description": "Europe/Skopje"
+    },
+    {
+        "name": "EUROPE_SOFIA",
+        "description": "Europe/Sofia"
+    },
+    {
+        "name": "EUROPE_STOCKHOLM",
+        "description": "Europe/Stockholm"
+    },
+    {
+        "name": "EUROPE_TALLINN",
+        "description": "Europe/Tallinn"
+    },
+    {
+        "name": "EUROPE_TIRANE",
+        "description": "Europe/Tirane"
+    },
+    {
+        "name": "EUROPE_ULYANOVSK",
+        "description": "Europe/Ulyanovsk"
+    },
+    {
+        "name": "EUROPE_VADUZ",
+        "description": "Europe/Vaduz"
+    },
+    {
+        "name": "EUROPE_VATICAN",
+        "description": "Europe/Vatican"
+    },
+    {
+        "name": "EUROPE_VIENNA",
+        "description": "Europe/Vienna"
+    },
+    {
+        "name": "EUROPE_VILNIUS",
+        "description": "Europe/Vilnius"
+    },
+    {
+        "name": "EUROPE_VOLGOGRAD",
+        "description": "Europe/Volgograd"
+    },
+    {
+        "name": "EUROPE_WARSAW",
+        "description": "Europe/Warsaw"
+    },
+    {
+        "name": "EUROPE_ZAGREB",
+        "description": "Europe/Zagreb"
+    },
+    {
+        "name": "EUROPE_ZURICH",
+        "description": "Europe/Zurich"
+    },
+    {
+        "name": "GMT",
+        "description": "GMT"
+    },
+    {
+        "name": "INDIAN_ANTANANARIVO",
+        "description": "Indian/Antananarivo"
+    },
+    {
+        "name": "INDIAN_CHAGOS",
+        "description": "Indian/Chagos"
+    },
+    {
+        "name": "INDIAN_CHRISTMAS",
+        "description": "Indian/Christmas"
+    },
+    {
+        "name": "INDIAN_COCOS",
+        "description": "Indian/Cocos"
+    },
+    {
+        "name": "INDIAN_COMORO",
+        "description": "Indian/Comoro"
+    },
+    {
+        "name": "INDIAN_KERGUELEN",
+        "description": "Indian/Kerguelen"
+    },
+    {
+        "name": "INDIAN_MAHE",
+        "description": "Indian/Mahe"
+    },
+    {
+        "name": "INDIAN_MALDIVES",
+        "description": "Indian/Maldives"
+    },
+    {
+        "name": "INDIAN_MAURITIUS",
+        "description": "Indian/Mauritius"
+    },
+    {
+        "name": "INDIAN_MAYOTTE",
+        "description": "Indian/Mayotte"
+    },
+    {
+        "name": "INDIAN_REUNION",
+        "description": "Indian/Reunion"
+    },
+    {
+        "name": "PACIFIC_APIA",
+        "description": "Pacific/Apia"
+    },
+    {
+        "name": "PACIFIC_AUCKLAND",
+        "description": "Pacific/Auckland"
+    },
+    {
+        "name": "PACIFIC_BOUGAINVILLE",
+        "description": "Pacific/Bougainville"
+    },
+    {
+        "name": "PACIFIC_CHATHAM",
+        "description": "Pacific/Chatham"
+    },
+    {
+        "name": "PACIFIC_CHUUK",
+        "description": "Pacific/Chuuk"
+    },
+    {
+        "name": "PACIFIC_EASTER",
+        "description": "Pacific/Easter"
+    },
+    {
+        "name": "PACIFIC_EFATE",
+        "description": "Pacific/Efate"
+    },
+    {
+        "name": "PACIFIC_FAKAOFO",
+        "description": "Pacific/Fakaofo"
+    },
+    {
+        "name": "PACIFIC_FIJI",
+        "description": "Pacific/Fiji"
+    },
+    {
+        "name": "PACIFIC_FUNAFUTI",
+        "description": "Pacific/Funafuti"
+    },
+    {
+        "name": "PACIFIC_GALAPAGOS",
+        "description": "Pacific/Galapagos"
+    },
+    {
+        "name": "PACIFIC_GAMBIER",
+        "description": "Pacific/Gambier"
+    },
+    {
+        "name": "PACIFIC_GUADALCANAL",
+        "description": "Pacific/Guadalcanal"
+    },
+    {
+        "name": "PACIFIC_GUAM",
+        "description": "Pacific/Guam"
+    },
+    {
+        "name": "PACIFIC_HONOLULU",
+        "description": "Pacific/Honolulu"
+    },
+    {
+        "name": "PACIFIC_KANTON",
+        "description": "Pacific/Kanton"
+    },
+    {
+        "name": "PACIFIC_KIRITIMATI",
+        "description": "Pacific/Kiritimati"
+    },
+    {
+        "name": "PACIFIC_KOSRAE",
+        "description": "Pacific/Kosrae"
+    },
+    {
+        "name": "PACIFIC_KWAJALEIN",
+        "description": "Pacific/Kwajalein"
+    },
+    {
+        "name": "PACIFIC_MAJURO",
+        "description": "Pacific/Majuro"
+    },
+    {
+        "name": "PACIFIC_MARQUESAS",
+        "description": "Pacific/Marquesas"
+    },
+    {
+        "name": "PACIFIC_MIDWAY",
+        "description": "Pacific/Midway"
+    },
+    {
+        "name": "PACIFIC_NAURU",
+        "description": "Pacific/Nauru"
+    },
+    {
+        "name": "PACIFIC_NIUE",
+        "description": "Pacific/Niue"
+    },
+    {
+        "name": "PACIFIC_NORFOLK",
+        "description": "Pacific/Norfolk"
+    },
+    {
+        "name": "PACIFIC_NOUMEA",
+        "description": "Pacific/Noumea"
+    },
+    {
+        "name": "PACIFIC_PAGO_PAGO",
+        "description": "Pacific/Pago_Pago"
+    },
+    {
+        "name": "PACIFIC_PALAU",
+        "description": "Pacific/Palau"
+    },
+    {
+        "name": "PACIFIC_PITCAIRN",
+        "description": "Pacific/Pitcairn"
+    },
+    {
+        "name": "PACIFIC_POHNPEI",
+        "description": "Pacific/Pohnpei"
+    },
+    {
+        "name": "PACIFIC_PORT_MORESBY",
+        "description": "Pacific/Port_Moresby"
+    },
+    {
+        "name": "PACIFIC_RAROTONGA",
+        "description": "Pacific/Rarotonga"
+    },
+    {
+        "name": "PACIFIC_SAIPAN",
+        "description": "Pacific/Saipan"
+    },
+    {
+        "name": "PACIFIC_TAHITI",
+        "description": "Pacific/Tahiti"
+    },
+    {
+        "name": "PACIFIC_TARAWA",
+        "description": "Pacific/Tarawa"
+    },
+    {
+        "name": "PACIFIC_TONGATAPU",
+        "description": "Pacific/Tongatapu"
+    },
+    {
+        "name": "PACIFIC_WAKE",
+        "description": "Pacific/Wake"
+    },
+    {
+        "name": "PACIFIC_WALLIS",
+        "description": "Pacific/Wallis"
+    },
+    {
+        "name": "US_ALASKA",
+        "description": "US/Alaska"
+    },
+    {
+        "name": "US_ARIZONA",
+        "description": "US/Arizona"
+    },
+    {
+        "name": "US_CENTRAL",
+        "description": "US/Central"
+    },
+    {
+        "name": "US_EASTERN",
+        "description": "US/Eastern"
+    },
+    {
+        "name": "US_HAWAII",
+        "description": "US/Hawaii"
+    },
+    {
+        "name": "US_MOUNTAIN",
+        "description": "US/Mountain"
+    },
+    {
+        "name": "US_PACIFIC",
+        "description": "US/Pacific"
+    },
+    {
+        "name": "UTC",
+        "description": "UTC"
+    }
+]
