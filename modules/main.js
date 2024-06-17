@@ -1,7 +1,6 @@
 import fs from 'fs';
 import { faker } from '@faker-js/faker';
 import { request, ProxyAgent } from 'undici';
-import { Cookie, CookieJar } from 'tough-cookie';
 
 function getProxy() {
     const proxies = fs.readFileSync('./helpers/proxies.txt', 'utf8').split('\n');
@@ -51,10 +50,9 @@ class Main {
         this.fields = [];
         this.target = String(target).toLowerCase();
         this.proxy = getProxy();
-        this.cookieJar = new CookieJar();
     }
 
-    async __send_request(url, method, headers, body, x, debug) {
+    async __send_request(url, method, headers, body, debug) {
         try {
             const parsed_url = new URL(`http://${this.proxy}`);
             this.agent = new ProxyAgent({ uri: `http://${this.proxy}` });
@@ -64,12 +62,6 @@ class Main {
                     uri: "http://royal.vital-proxies.com:12321",
                     auth: Buffer.from(`${parsed_url.username}:${parsed_url.password}`).toString("base64"),
                 });
-            }
-    
-            if (x !== true) {
-                if (this.cookieJar && this.cookieJar.getCookiesSync(url).length > 0) {
-                    headers["cookie"] = this.cookieJar.getCookieStringSync(url);
-                }
             }
     
             if (debug) console.log(headers);
@@ -89,19 +81,7 @@ class Main {
                     },
                 },
             });
-    
-            let responseCookies = response.headers["set-cookie"];
-            if (typeof responseCookies === "string") {
-                responseCookies = [responseCookies];
-            }
-    
-            if (responseCookies) {
-                responseCookies.forEach((cookieStr) => {
-                    const cookie = Cookie.parse(cookieStr);
-                    this.cookieJar.setCookieSync(cookie, url);
-                });
-            }
-    
+
             try {
                 const chunks = [];
                 for await (const chunk of response.body) {
